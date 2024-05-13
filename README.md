@@ -2,9 +2,7 @@
 
 PROYECTO EN LARAVEL Y FLUTTER
 
-## Getting Started
-
-Reglas del desafio:
+## Reglas del desafio:
 
 Desarrollo en Laravel con Bootstrap:
 Desarrollar una API Rest que permita:
